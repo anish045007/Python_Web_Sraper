@@ -1,12 +1,18 @@
 1.	**Trend Analysis**
 
 The trend analysis chart indicates a prolonged downtrend in crude oil prices over the past 23 years, particularly since 2016. Both the 50-day and 200-day moving averages validate this decline, with the short-term average below the long-term one, signaling a short-term bearish trend.
+
 Several factors contribute to this decline:
+
 •	Increased oil supply from the United States, a significant producer.
+
 •	Slowing global economic growth reducing oil demand.
 Consequences:
+
 •	Consumers may benefit from lower fuel prices.
+
 •	Businesses relying on oil as a raw material could see cost advantages.
+
 •	Oil-exporting nations may face challenges due to reduced export revenues.
 In summary, the chart suggests a continuing decline in crude oil prices, with potential global economic implications.
 
